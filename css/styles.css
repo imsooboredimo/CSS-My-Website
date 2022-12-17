@@ -1,0 +1,41 @@
+/**************************************ELEMENTS******************************************/
+
+body {
+    margin: 0;
+    text-align: center;
+    
+}
+
+div {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Sacramento' , cursive;
+}
+
+
+
+
+/**************************************CLASSES******************************************/
+
+.pro {
+    text-decoration: underline;
+}
+
+
+
+.up-cloud {
+    position: absolute;
+    top: 40px;
+    left: 800px;
+}
+
+.down-cloud {
+    position: absolute;
+
+}
+
