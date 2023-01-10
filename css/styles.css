@@ -8,15 +8,29 @@ body {
 
 div {
     background-color: #E4F9F5;
-    padding-top: 100px;
-    font-family: 'Lato', sans-serif;
 }
 
 h1 {
     margin: 0;
+    padding-top: 50px;
     font-family: 'Sacramento' , cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
 }
 
+h2 {
+    font-size: 2.5em;
+    font-family: 'Lato', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    margin-block: auto;
+    margin-inline: auto;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    color: #11999E;
+}
 
 
 
@@ -30,12 +44,30 @@ h1 {
 
 .up-cloud {
     position: absolute;
-    top: 40px;
-    left: 800px;
+    top: 60px;
+    left: 1000px;
 }
 
 .down-cloud {
     position: absolute;
-
+    top: 430px;
+    left: 300px;
 }
 
+.howdy {
+    font-weight:bold;
+}
+
+.my_img {
+    height: 350px;
+    width: 275px;
+    border-radius: 75%;
+}
+
+.top-container {
+    padding-top: 100px;
+}
+
+.middle-container {
+    padding-top: 20px;
+}
