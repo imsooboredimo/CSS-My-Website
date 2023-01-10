@@ -1,2 +1,2 @@
 # CSS-My-Website
-about me...
+about me.
