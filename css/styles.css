@@ -36,38 +36,73 @@ h3 {
 
 /**************************************CLASSES******************************************/
 
+/* "pro" in "programmer" */
 .pro {
     text-decoration: underline;
 }
 
+/* skill section*/
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 200%;
+    ;
+}
 
-
+/* up cloud */
 .up-cloud {
     position: absolute;
     top: 60px;
     left: 1000px;
 }
 
+/* down cloud */
 .down-cloud {
     position: absolute;
     top: 430px;
     left: 300px;
 }
 
+/* howdy word */
 .howdy {
     font-weight:bold;
 }
 
+/* my photo profile */
 .my_img {
     height: 350px;
     width: 275px;
     border-radius: 75%;
 }
 
+/* top container */
 .top-container {
     padding-top: 100px;
 }
 
+/* middle container */
 .middle-container {
     padding-top: 20px;
+}
+
+/* learn image skill*/
+.learn-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+/* programming image skill*/
+.programming-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* math and logic image skill*/
+.math-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
 }
